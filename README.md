@@ -21,19 +21,6 @@
 <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
 </div>
   <br>
-<h2 align="center">Trophies 🏆</h2>
-<p align="center">
-  <a href="https://github.com/littlegudy">
-    <img
-      align="center"
-      src="https://github-profile-trophy.vercel.app/?username=littlegudy&theme=dracula&no-frame=true&row=1&&margin-w=20&no-bg=true"
-    />
-  </a>
-</a>
-</p>
-</div>
-  <br>
-<br>
 
 <div align="center">
     <h2>🔥 Streak Stats</h2>
