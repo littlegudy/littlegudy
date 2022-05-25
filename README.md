@@ -52,7 +52,7 @@
 <h2 align="center">Work at 🛠</h2>
 
 <p align="center">
-  <a href="https://github.com/littegudy/StarWarsBattlefront">
+  <a href="https://github.com/littlegudy/StarWarsBattlefront">
     <img
       align="center"
       height="120em"
