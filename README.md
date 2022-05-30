@@ -49,14 +49,4 @@
   <br>
     <br>
 
-<h2 align="center">Work at 🛠</h2>
 
-<p align="center">
-  <a href="https://github.com/littlegudy/StarWarsBattlefront">
-    <img
-      align="center"
-      height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=littlegudy&repo=starwars&theme=dracula">
-    </img>
-  </a>
-</p>
