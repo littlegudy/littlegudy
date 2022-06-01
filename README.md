@@ -1,4 +1,7 @@
 
+      <div id="header" align="center">
+  
+       
       <h2 align="center">Recent GitHub Activity ⚡</h2>
    <a href="https://github.com/littlegudy"><img alt="Gudy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=littlegudy&custom_title=Gudy's%20Contribution%20Graph&theme=dracula" /></a>
     <br>
