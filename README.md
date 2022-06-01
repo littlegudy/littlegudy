@@ -1,6 +1,10 @@
 <div id="header" align="center">
   
-  
+  <h1 align="center">Hi! I'm Luís, but you can call me Gudy =) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Studying+Front+End+Technologies;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
+</div>      
       <h2 align="center">Recent GitHub Activity ⚡</h2>
    <a href="https://github.com/littlegudy"><img alt="Gudy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=littlegudy&custom_title=Gudy's%20Contribution%20Graph&theme=dracula" /></a>
     <br>
