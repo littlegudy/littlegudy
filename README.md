@@ -8,7 +8,6 @@
 <code><img alt="Javascript" src="https://img.icons8.com/color/48/000000/javascript.png"/></code>
 <code><img alt="HTML5" src="https://img.icons8.com/color/48/000000/html-5.png"/></code>
 <code><img alt="CSS3" src="https://img.icons8.com/color/48/000000/css3.png"/></code>
-<code><img height="48" src="https://cdn2.downdetector.com/static/uploads/logo/figma2.png" alt="Figma"/></code>
 <code><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/788px-Adobe_XD_CC_icon.svg.png" alt="Adobe XD"/></code>
 <code><img height="48" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code>
 <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
